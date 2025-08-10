@@ -55,7 +55,8 @@ El análisis por marca revela estrategias comerciales diferenciadas. Donde, Bmob
 
 Márgenes Negativos Generalizados
 Presencia de márgenes negativos en múltiples gamas y marcas. LG presenta su distribución completa en territorio negativo. Especialmente problemático en canales Retail y Tiendas. Indica productos vendidos por debajo del costo, problemas de inventarios o errores estructurales.
-<img width="989" height="989" alt="image" src="https://github.com/user-attachments/assets/d336e6da-9ea1-40e6-96ec-28f10ab4483b" />
+<img width="1015" height="855" alt="image" src="https://github.com/user-attachments/assets/168365c7-a453-4e52-9fc1-51f9bf32da0c" />
+
 
 
 Ineficiencia Operativa Premium
