@@ -34,7 +34,7 @@ Base sólida para hipótesis y análisis futuros.
 
 
 
-Conclusiones
+# Conclusiones
 🎯 Hallazgos Estratégicos Principales
 
 Paradoja de Rentabilidad
