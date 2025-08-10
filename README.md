@@ -39,21 +39,28 @@ Base sólida para hipótesis y análisis futuros.
 
 Paradoja de Rentabilidad
 El análisis revela un hallazgo contraintuitivo crítico: los productos más costosos son los menos rentables.
+<img width="1145" height="1036" alt="image" src="https://github.com/user-attachments/assets/e4e17500-58bc-4138-a6e8-ff6d1b94ed0c" />
+
 
 Desbalance de Representación de Datos
 El dataset muestra un sesgo significativo hacia gamas bajas: Low, Entry Smart y Mid representan más del 90% de los datos, mientras que Premium y High apenas alcanzan el 3%. Este desbalance: Explica la mayor dispersión visual en gamas bajas. Puede estar sesgando las interpretaciones sobre rentabilidad por gama. Sugiere una dependencia excesiva en productos de bajo margen
 
 Segmentación Clara del Mercado
 El análisis por marca revela estrategias comerciales diferenciadas. Donde, Bmobile: Dominio absoluto en gama Low (4,500 unidades) con eficiencia excepcional. Apple: Enfoque exclusivo en segmentos premium pero con márgenes problemáticos. Samsung: Estrategia diversificada con presencia fuerte en múltiples gamas. Motorola y Xiaomi: Posicionamiento en valor por dinero (Entry Smart y Mid)
+<img width="1070" height="589" alt="image" src="https://github.com/user-attachments/assets/d85a3c58-ff72-49aa-983c-82ca2d5cb278" />
+
 
 
 📊 Problemas Críticos Identificados
 
 Márgenes Negativos Generalizados
 Presencia de márgenes negativos en múltiples gamas y marcas. LG presenta su distribución completa en territorio negativo. Especialmente problemático en canales Retail y Tiendas. Indica productos vendidos por debajo del costo, problemas de inventarios o errores estructurales.
+<img width="989" height="989" alt="image" src="https://github.com/user-attachments/assets/d336e6da-9ea1-40e6-96ec-28f10ab4483b" />
+
 
 Ineficiencia Operativa Premium
 Los productos de alto costo no generan rentabilidad proporcional. Apple, a pesar de su posicionamiento premium, muestra problemas de margen. Sugiere sobrecostos operativos o estrategias de pricing inadecuadas
+<img width="989" height="989" alt="image" src="https://github.com/user-attachments/assets/dfe2e051-0116-42a9-8441-bb5b0a895852" />
 
 
 🚀 Oportunidades Estratégicas
